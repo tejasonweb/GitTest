@@ -1,1 +1,2 @@
 line 1
+line 3 from dir test after adding line 2 from test2
